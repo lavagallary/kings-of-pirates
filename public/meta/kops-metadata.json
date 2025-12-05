@@ -1,0 +1,12 @@
+{
+  "name": "Kings Of Pirates",
+  "symbol": "KOPS",
+  "decimals": 6,
+  "description": "Jettons Minted at Kings Of Pirates P2E World, all Holders can join Kings Legaue and more",
+  "image": "ipfs://bafybeidicrmk2h4x24w7dotaulrluqekkrdl5tlqfkzayvm2y4zlvx4sje",
+  "external_url": "https://t.me/KingsOfPiratesBot/game",
+  "social": {
+    "telegram": "https://t.me/KingsOfPiratesClub",
+    "twitter": "https://x.com/KingsOfPirates_"
+  }
+}
